@@ -1,52 +1,52 @@
-host-keyword,Bing,Final
-host-keyword,biying,Final
-host-suffix,bbing.com,Final
-host-suffix,bibg.com,Final
-host-suffix,biing.com,Final
-host-suffix,binb.com,Final
-host-suffix,binf.com,Final
-host-suffix,bing123.com,Final
-host-suffix,bing135.com,Final
-host-suffix,bing4.com,Final
-host-suffix,bingads.com,Final
-host-suffix,bingagencyawards.com,Final
-host-suffix,bingapis.com,Final
-host-suffix,bingapistatistics.com,Final
-host-suffix,binginternal.com,Final
-host-suffix,bingit.net,Final
-host-suffix,bingiton.com,Final
-host-suffix,bingj.com,Final
-host-suffix,bingpix.com,Final
-host-suffix,bingpk.com,Final
-host-suffix,bings.com,Final
-host-suffix,bingsandbox.com,Final
-host-suffix,bingtoolbar.com,Final
-host-suffix,bingtranslator.com,Final
-host-suffix,bingvisualsearch.com,Final
-host-suffix,bingworld.com,Final
-host-suffix,bluehatnights.com,Final
-host-suffix,dictate.ms,Final
-host-suffix,discoverbing.com,Final
-host-suffix,explorebing.com,Final
-host-suffix,flipwithsurface.com,Final
-host-suffix,mapblast.com,Final
-host-suffix,mappoint.com,Final
-host-suffix,masalladeloslimites.com,Final
-host-suffix,microsoft-give.com,Final
-host-suffix,microsoftcloudsummit.com,Final
-host-suffix,microsoftdiplomados.com,Final
-host-suffix,microsoftlatamholiday.com,Final
-host-suffix,microsoftmxfilantropia.com,Final
-host-suffix,microsoftpartnersolutions.com,Final
-host-suffix,msnmaps.com,Final
-host-suffix,msunlimitedcloudsummit.com,Final
-host-suffix,myhomemsn.com,Final
-host-suffix,office365love.com,Final
-host-suffix,office365tw.com,Final
-host-suffix,osdinfra.net,Final
-host-suffix,renovacionoffice.com,Final
-host-suffix,sprinklesapp.com,Final
-host-suffix,working-bing-int.com,Final
+host-keyword,Bing, proxy
+host-keyword,biying, proxy
+host-suffix,bbing.com, proxy
+host-suffix,bibg.com, proxy
+host-suffix,biing.com, proxy
+host-suffix,binb.com, proxy
+host-suffix,binf.com, proxy
+host-suffix,bing123.com, proxy
+host-suffix,bing135.com, proxy
+host-suffix,bing4.com, proxy
+host-suffix,bingads.com, proxy
+host-suffix,bingagencyawards.com, proxy
+host-suffix,bingapis.com, proxy
+host-suffix,bingapistatistics.com, proxy
+host-suffix,binginternal.com, proxy
+host-suffix,bingit.net, proxy
+host-suffix,bingiton.com, proxy
+host-suffix,bingj.com, proxy
+host-suffix,bingpix.com, proxy
+host-suffix,bingpk.com, proxy
+host-suffix,bings.com, proxy
+host-suffix,bingsandbox.com, proxy
+host-suffix,bingtoolbar.com, proxy
+host-suffix,bingtranslator.com, proxy
+host-suffix,bingvisualsearch.com, proxy
+host-suffix,bingworld.com, proxy
+host-suffix,bluehatnights.com, proxy
+host-suffix,dictate.ms, proxy
+host-suffix,discoverbing.com, proxy
+host-suffix,explorebing.com, proxy
+host-suffix,flipwithsurface.com, proxy
+host-suffix,mapblast.com, proxy
+host-suffix,mappoint.com, proxy
+host-suffix,masalladeloslimites.com, proxy
+host-suffix,microsoft-give.com, proxy
+host-suffix,microsoftcloudsummit.com, proxy
+host-suffix,microsoftdiplomados.com, proxy
+host-suffix,microsoftlatamholiday.com, proxy
+host-suffix,microsoftmxfilantropia.com, proxy
+host-suffix,microsoftpartnersolutions.com, proxy
+host-suffix,msnmaps.com, proxy
+host-suffix,msunlimitedcloudsummit.com, proxy
+host-suffix,myhomemsn.com, proxy
+host-suffix,office365love.com, proxy
+host-suffix,office365tw.com, proxy
+host-suffix,osdinfra.net, proxy
+host-suffix,renovacionoffice.com, proxy
+host-suffix,sprinklesapp.com, proxy
+host-suffix,working-bing-int.com, proxy
 host-suffix,emoi-cncdn.bing.com,Final
 host-keyword,1drv,direct
 host-keyword,Applicationinsights,direct
